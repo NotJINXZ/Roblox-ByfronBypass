@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+  "name": "Roblox Byfron Bypasser",
+  "version": "1.0",
+  "description": "This extension bypasses roblox's byfron by changing your roblox channel. Made by jinxz#1337",
+  "content_scripts": [
+    {
+      "matches": ["*://*.roblox.com/*"],
+      "js": ["bypass.user.js"]
+    }
+  ]
+}
