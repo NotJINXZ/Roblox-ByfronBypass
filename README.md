@@ -8,7 +8,7 @@ This is a Chrome extension and Tampermonkey script that reverts any channel buil
 
 ## Installation
 
-### Option 1: Installing the Chrome Extension
+### Option 1: Installing the Chrome Extension (Broken atm)
 
 1. Download the latest release of the Roblox Byfron Bypasser from the [releases page](https://github.com/USERNAME/REPOSITORY/releases).
 2. Extract the `extension.zip` file.
