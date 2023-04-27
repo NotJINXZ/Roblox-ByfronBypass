@@ -1,3 +1,4 @@
+# THIS IS OUTDATED AND DOES NOT WORK ANYMORE
 # Roblox Byfron Bypasser
 
 This is a Chrome extension that bypasses Roblox's Byfron system by changing your Roblox channel. It reverts any channel builds that Roblox has placed on your account and reverts them back to the normal version that everyone should have.
